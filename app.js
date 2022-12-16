@@ -5,7 +5,7 @@ const _ = require("lodash");
 
 const homeStartingContent = "Welcome to Daily Journal. Please head over to the compose page by clicking the compose button and type in your entry and give it a title. To open the entry in a seperate page, click on the read more link attatched to your composition.";
 const aboutContent = "My name is Shane Arland. I am a web developer and currently living in Jamshedpur. This site was created as a challenge in an online course and as you can see I've made it live on the web because why not.";
-const contactContent = "Scelerisque eleifend donec pretium vulputate sapien. Rhoncus urna neque viverra justo nec ultrices. Arcu dui vivamus arcu felis bibendum. Consectetur adipiscing elit duis tristique. Risus viverra adipiscing at in tellus integer feugiat. Sapien nec sagittis aliquam malesuada bibendum arcu vitae. Consequat interdum varius sit amet mattis. Iaculis nunc sed augue lacus. Interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit. Pulvinar elementum integer enim neque. Ultrices gravida dictum fusce ut placerat orci nulla. Mauris in aliquam sem fringilla ut morbi tincidunt. Tortor posuere ac ut consequat semper viverra nam libero.";
+const contactContent = "Name: Shane Arland<br>Phone: 4079191767<br>Address: Jharkhand, India<br>E-mail: garlandbane@gamil.com";
 
 const app = express();
 let posts = [];
